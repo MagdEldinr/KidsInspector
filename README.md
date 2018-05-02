@@ -7,3 +7,9 @@ YOLO V1 model is used to detect the objects and then classify them so that the a
 
 
 The application user interface provides instructions for the user to correctly use the application.
+
+Team Members Names':
+
+1-MagdEldin Rizk
+2-Mahmoud A.Selmy
+3-Ahmed Mahmoud
