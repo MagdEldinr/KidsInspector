@@ -4,3 +4,6 @@ Python Application made in a college project as an application for children wher
 
 
 YOLO V1 model is used to detect the objects and then classify them so that the application matches the click of the user on a specific object and the actual label of that object in order to determine the correctness of the answer.
+
+
+The application user interface provides instructions for the user to correctly use the application.
