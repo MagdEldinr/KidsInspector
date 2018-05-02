@@ -12,4 +12,4 @@ The application user interface provides instructions for the user to correctly u
 
 * MagdEldin Mohamed Ibrahim Rizk
 * Ahmed Mahmoud Ibrahim
-* Mahmoud Ashraf Selmy
+* Mahmoud Ashraf  Abdul-Halim
