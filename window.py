@@ -135,7 +135,7 @@ class Inspector(Frame):
             question.config(text="Click on " + self.labels[object_index])
             for i,box in enumerate(self.results):
                 x2, y2, h2, w2 = box[0], box[1], box[2], box[3]
-                click_area1 = viewframe.create_rectangle(x2 - w2, y2 - h2, x2 + 1.1*w2, y2 + 1.1*h2, width=3,
+                click_area1 = viewframe.create_rectangle(x2 - w2, y2 - h2, x2 + w2, y2 + h2, width=3,
 
                                                      outline="maroon", stipple="gray25", fill="white")
                 if i == object_index:
